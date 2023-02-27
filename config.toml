@@ -1,0 +1,22 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Prueba #12'
+theme = 'compose'
+
+[menu]
+[[menu.main]]
+  identifier = 'Learn'
+  name = 'Learn Hugo'
+  url = '/nav/learn'
+  weight = -110
+[[menu.main]]
+  identifier = 'contact'
+  name = 'Contact'
+  url = '/nav/contact'
+  weight = -100
+[[menu.main]]
+  identifier = 'other'
+  name = 'Other'
+  url = '/nav/other'
+  weight = -90
+
