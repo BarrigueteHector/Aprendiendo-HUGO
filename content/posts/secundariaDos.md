@@ -1,5 +1,5 @@
 ---
-title: "Secundaria Dos"
+title: "Pagina secundaria #2"
 date: 2023-02-26T14:55:20-06:00
 draft: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Principal"
+title: "Home page"
 date: 2023-02-26T14:51:03-06:00
 draft: false
 ---
